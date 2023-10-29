@@ -2,6 +2,6 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Personel kayıt etme ve personellerin özelliklerini görmeye yarayan program
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Kullanıcı adı, şifre ve personellerin verileri Sql Server üzerinden değiştirilebilir Personel Kayıt formundaki label8 yazısı Personelin durumunun bekar veya evli olmasına göre true veya false değer döndürür. Program başlatıldığında labe8 yazısı gözükmez.
+Kullanıcı adı, şifre ve personellerin verileri Sql Server üzerinden değiştirilebilir. Personel Kayıt formundaki label8 yazısı Personelin durumunun bekar veya evli olmasına göre true veya false değer döndürür. Program başlatıldığında label8 yazısı gözükmez.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Kullanıcı Adı : admin      Şifre : 123456
